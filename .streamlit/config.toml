@@ -1,0 +1,9 @@
+[theme]
+backgroundColor = "darkGreen"
+secondaryBackgroundColor = "gray"
+primaryColor = "limeGreen"
+textColor = "lawnGreen"
+font = "serif"
+
+[client]
+showSidebarNavigation = false
