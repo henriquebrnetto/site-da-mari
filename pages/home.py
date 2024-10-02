@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_timeline import timeline
 from time import sleep
 from utils import load_timeline_data
+from youtube_auto import youtube_auto
 
 st.set_page_config(page_title="Nossa linha do tempo💛", layout="wide")
 
@@ -23,3 +24,6 @@ if st.button("Clear All"):
     # i.e. clear values from both square and cube
     st.cache_data.clear()
     st.rerun()
+
+if st.button('YOUTUBE'):
+    youtube_auto()
