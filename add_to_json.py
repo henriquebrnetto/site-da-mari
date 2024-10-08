@@ -17,9 +17,9 @@ for link in links:
     dot_idx = link.rfind('.')
 
     last_part = link[slash_idx+1 : dot_idx].split('p')[0]
-    date = last_part.split('_')
+    date_ = last_part.split('_')
     try:
-      date[2] = '20' + date[2]
+      date_[2] = '20' + date_[2]
     except IndexError:
       continue
 
@@ -30,9 +30,9 @@ for link in links:
           "credit": ""
         },
         "start_date": {
-          "month": date[1],
-          "day": date[0],
-          "year": date[2]
+          "month": date_[1],
+          "day": date_[0],
+          "year": date_[2]
         },
         "text": {
           "headline": "------- ADICIONAR HEADLINE -------",
@@ -41,7 +41,7 @@ for link in links:
       }]
 
 data['events'] += new_events
-#print(sorted(data['events'], key=lambda e : date(year=int(e['ano']), month=int(e['']))))
+data['events'] = sorted(data['events'], key=lambda e : date(year=int(e["start_date"]['year']), month=int(e["start_date"]['month']), day=int(e["start_date"]['day'])))
 
 with open('timeline.json', 'w') as file:
-    json.dump(data, file)
+  json.dump(data, file)
