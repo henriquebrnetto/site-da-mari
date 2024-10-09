@@ -1,4 +1,4 @@
-import os
+import os, re
 import google.oauth2.credentials
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
@@ -53,26 +53,24 @@ def get_files(root):
     
     return f, f_names
 
-def compare_videos(files, yt_videos):
+def move_uploaded_videos(files, yt_videos, dest_path):
+    for file in files:
+        slash_idx = file.rfind('\\')
+        filename = file[slash_idx+1:]
+        if filename in yt_videos and dest_path not in file:
+            os.rename(file, f'{dest_path}\\{filename}')
+            print(f'{dest_path}\\{filename} ------ OK')
     return
 
 if __name__ == "__main__":
     youtube_client = youtube_auto()
     video_links = get_videos_from_channel(youtube_client)
-    root = '..\\FOTOS MARI BACKUP'
-    files, filenames = get_files(root)
-    yt_names = ['_'.join(name.split(' ')) + '.mp4' for name, link in video_links]
-    print(f'Youtube Names : {yt_names}')
-    for file, filename in zip(files, filenames):
-        if filename not in yt_names:
-             print(f'{filename} : {file}')
-        else:
-            print('------------------- ', filename)
 
-    """for name, link in video_links:
-        nm = name.split(' ')
-        nm = '_'.join(nm) + '.mp4'
-        if nm not in filenames:
-            print(f'{name} : {link}')
-        else:
-            print('------------------- ', name)"""
+
+    for link in video_links:
+        print(link)
+    # root = 'D:\\Projetos Pessoais\\site mari\\FOTOS MARI BACKUP'
+    # files, filenames = get_files(root)
+    # yt_names = ['_'.join(name.split(' ')) + '.mp4' for name, link in video_links]
+    # dest_path = 'D:\\Projetos Pessoais\\site mari\\FOTOS MARI BACKUP\\videos\\inseridas'
+    # move_uploaded_videos(files, yt_names, dest_path)

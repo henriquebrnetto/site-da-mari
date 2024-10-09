@@ -24,6 +24,3 @@ if st.button("Clear All"):
     # i.e. clear values from both square and cube
     st.cache_data.clear()
     st.rerun()
-
-if st.button('YOUTUBE'):
-    youtube_auto()

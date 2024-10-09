@@ -25,6 +25,9 @@ def urls_from_blog(censura=False):
     pattern = r'src="([^"]+)"'
     return re.findall(pattern, blog_post)
 
-def links_not_in_doc(events, links):
-    events = [event['media']['url'] for event in events]
-    return list(set(links).difference(events))
+def links_not_in_doc(events, links, tuples=False):
+    events = {event['media']['url'] for event in events}
+    if tuples:
+        return [(name, link) for name, link in links if link not in events]
+    else:
+        return list(set(links).difference(events))
