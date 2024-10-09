@@ -1066,22 +1066,6 @@
                 "headline": "------- ADICIONAR HEADLINE -------",
                 "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
-        },
-        {
-            "media": {
-                "url": "https://www.youtube.com/watch?v=03CGpoHVOmc",
-                "caption": "",
-                "credit": ""
-            },
-            "start_date": {
-                "month": "01",
-                "day": "01",
-                "year": "1010"
-            },
-            "text": {
-                "headline": "------- ADICIONAR HEADLINE -------",
-                "text": "<p>------- ADICIONAR TEXTO -------</p>"
-            }
         }
     ]
 }
