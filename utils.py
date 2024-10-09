@@ -1,6 +1,10 @@
 import streamlit as st
 import json, re, requests, os
-from creds import blogger_api_key, blog_id
+from dotenv import dotenv_values
+
+config = dotenv_values('.env')
+blogger_api_key = config['BLOGGER_API_KEY']
+blog_id = config['BLOG_ID']
 
 @st.cache_data
 def load_timeline_data():
