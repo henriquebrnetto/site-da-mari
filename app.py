@@ -1,9 +1,4 @@
 import streamlit as st
-import webbrowser
-from creds import *
-from dotenv import dotenv_values
-
-config = dotenv_values('.env')
 
 st.set_page_config(page_title="Login")
 
@@ -17,8 +12,8 @@ with st.form("login_form"):
     sub = st.form_submit_button("Enviar")
 
 if sub:
-    if (user == config['USERNAME'] and psswd == config['PSSWD']) or (user == config['ADMIN'] and psswd == config['ADMIN_PSSWD']):
+    if (user == st.secrets['USERNAME'] and psswd == st.secrets['PSSWD']) or (user == st.secrets['ADMIN'] and psswd == st.secrets['ADMIN_PSSWD']):
         st.session_state['auth_status'] = True
         st.switch_page('pages/home.py')
     else:
-        st.error(message)
+        st.error(st.secrets['MSG'])
