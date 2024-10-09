@@ -1,8 +1,14 @@
 import streamlit as st
 import json, re, requests, os
+from dotenv import dotenv_values
 
-blogger_api_key = st.secrets['BLOGGER_API_KEY']
-blog_id = st.secrets['BLOG_ID']
+try:
+    blogger_api_key = st.secrets['BLOGGER_API_KEY']
+    blog_id = st.secrets['BLOG_ID']
+except FileNotFoundError:
+    config = dotenv_values('.env')
+    blogger_api_key = config['BLOGGER_API_KEY']
+    blog_id = config['BLOG_ID']
 
 @st.cache_data
 def load_timeline_data():

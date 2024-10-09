@@ -90,8 +90,8 @@ def append_yt_videos():
   data['events'] += new_events
   data['events'] = sorted(data['events'], key=lambda e : date(year=int(e["start_date"]['year']), month=int(e["start_date"]['month']), day=int(e["start_date"]['day'])))
 
-  """with open('timeline.json', 'w') as file:
+  with open('timeline.json', 'w') as file:
     json.dump(data, file)
-    print('File updated!')"""
+    print('File updated!')
   
 append_yt_videos()

@@ -109,6 +109,22 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=iiEygy-tEic",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "10",
+                "day": "04",
+                "year": "2017"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgugZM-1AH7N61Vb50YhbqE7EQuRR4w4sXzmAJsQCVzhcQXR2NXQ5kVxqojiFotxCWs1ZUHA6HT7je3eV-2EzMhXK0XSvVbNPrd9f1SRNdpHIgQcyFp6oil4Y5WzvgagvzQAzlON8K2AJDxvN319uxgAAyFrNERpuVeWHJdltT08Jb8GAkFUH1j0Xd9_Zez/s320/07_10_17.jpg",
                 "caption": "",
                 "credit": ""
@@ -137,6 +153,38 @@
             "text": {
                 "headline": "E aqui comeca a sua saga de selfies aleatorias no meu celular.",
                 "text": "<p>Impossivel deixar meu celular desvigiado perto de voce</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=2cr7phST-gA",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "10",
+                "day": "12",
+                "year": "2017"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=PKTsI3St2V8",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "10",
+                "day": "16",
+                "year": "2017"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -221,6 +269,22 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=By3QGZobloA",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "01",
+                "day": "25",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7qNtxhiIAm7kdw1GVx1FAPBD3ieTnB_R7RMtWdgo2jKofFw03srTSTy4SnpVDuczRC9GipcEO5va8ZwjvU5R-oh8kIGoosxdlomktZpIWZAFHJuyaU5zXIZ_iV01221oifHQ02iwAboIBIH532c25i2Tdr8wQyaO76U4fQWsnL-Pz0WltbreWQsGXgpDl/s320/29_01_23.jpeg",
                 "caption": "",
                 "credit": ""
@@ -233,6 +297,22 @@
             "text": {
                 "headline": "Essa foi a primeira foto nossa que mandei pro Guigo e pro Fabrizio.",
                 "text": "<p>Nao lembro o que fizemos nesse dia, mas lembro que estava muito feliz por estar ao seu lado novamente depois de tantos anos.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=qC-t7KTG-oU",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "01",
+                "day": "29",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -253,6 +333,38 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=dLMA44PbngA",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "04",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=03CGpoHVOmc",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "04",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggkfMxU_XPhgcnf4lXRtA3JnF5yRjhiwbzTZRtc9yikM7MVfOX0hlBo1h-mJyivLq32khWVFN2o3WpQnKsAcYIvoXUr_IcCjKsDBy0v051XWE2cyiU_XSZZhfJrqbrQNpAWkFPcs5VsE_vFsvGLe_zoiKE4nvtxZMnoTFxBktwvEcNogHUBgL14amQUv3x/s320/05_02_23.jpg",
                 "caption": "",
                 "credit": ""
@@ -264,7 +376,23 @@
             },
             "text": {
                 "headline": "O passeio do Villa-Lobos",
-                "text": "<p>Levamos a Kiki para passear conosco esse dia, começou a cair o mundo do nada, e eu fiz a gente se perder duas vezes tentando sair do parque. Nesse dia voce descobriu que meu senso de direcao eh horroroso.</p>"
+                "text": "<p>Levamos a Kiki para passear conosco esse dia, come\u00c3\u00a7ou a cair o mundo do nada, e eu fiz a gente se perder duas vezes tentando sair do parque. Nesse dia voce descobriu que meu senso de direcao eh horroroso.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=MzZALZ_zxNo",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "07",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -281,6 +409,54 @@
             "text": {
                 "headline": "O Carnatenda",
                 "text": "<p>Eu fui 100% de loucura pra esse role, comprei de ultima hora para ir te encontrar la. Foi uma puta aventura, mas valeu muito a pena.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=HIcaswemv7A",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "17",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=Ws2K_jgkWho",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "18",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=9PDsfYlJ-_E",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "19",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -361,6 +537,70 @@
             "text": {
                 "headline": "Passeio em Serra Negra",
                 "text": "<p>Foto classica no \"Eu amo Serra Negra\" kkkkkkkk</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=pTwA0ojZepU",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "03",
+                "day": "09",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=7tsMHBPH5tI",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "03",
+                "day": "24",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=rqETwr6F-XY",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "03",
+                "day": "24",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=sUebX1T2lGs",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "03",
+                "day": "24",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -525,6 +765,22 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=rz1gqs27v4s",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "06",
+                "day": "24",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkmSMs7oV1UrwK9m9k9TxUXVpR7V2tG2nkmnANec2LSRx6hIjME4AhPV7vBn7yk_0tJI5MDX7KNnda2HpScpBTnfgx_M2B-23cCG85vKt90aeB320T5c9Wn1Ee3Y8kOj8gziUzYTAB9_s6Tz2iGzKVqdKsN_sxXXVv9d29JiuE5_eDs0dOCiRQeZzc1xtf/s320/25_06_23.jpg",
                 "caption": "",
                 "credit": ""
@@ -589,6 +845,22 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=wa2thn_VzzY",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "02",
+                "day": "15",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGyYJu8r-cvEmVHMJ580tHGSI2MbaOT3dBjvsjO91JkPamhQejhELO_u_3rYtPyCXIfCki-1UaRSL0GpfxlqcKhOJ8plLd4SU94expNd6unTsHuEnI4qMzFtqhq-BH5D1UfNuXhIwPhx5GR292mvT_bPagoUg1ys_HHsEQAzBCdHfUPfHpv7AvZFw3bmST/s320/03_03_24.jpg",
                 "caption": "",
                 "credit": ""
@@ -601,6 +873,22 @@
             "text": {
                 "headline": "Nossa primeira corrida juntos",
                 "text": "<p>A Alessandra Salles ficou em primeiro lugar da categoria dela, ela manda muito!<br>Brincadeiras a parte, voce foi virada para essa corrida, bateu seu PR, e eu (quase virado) consegui fazer 5km em 25 minutos. Bizarro. Mandamos muito bem.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=FAzI1quaVi4",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "03",
+                "day": "09",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -765,6 +1053,38 @@
         },
         {
             "media": {
+                "url": "https://www.youtube.com/watch?v=elNXCVY4lMU",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "04",
+                "day": "06",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=HDqRxd5P3j0",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "04",
+                "day": "06",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMTMtgS6PORKPnF4VeKO5cbnGxEip_Bag3z-iuKRQp9JnNOG1ohThxSH_HJBygOmm8wBs21L-hNVCk_oRJSK9I6647uR5vjHSXNAK-wtl-GFO8j0o5ylzferBPDsIfhfY6U1m6aa75MfZSO0LjUfCxo3fv5NV0pCH25buoSuIjyiQqCxGsV00KKM9bKF-/s320/27_04_24.jpg",
                 "caption": "",
                 "credit": ""
@@ -824,7 +1144,23 @@
             },
             "text": {
                 "headline": "Media Day",
-                "text": "<p>A pose e a intencao estavam perfeitos. Infelizmente o fotógrafo conseguiu estragar a foto.</p>"
+                "text": "<p>A pose e a intencao estavam perfeitos. Infelizmente o fot\u00c3\u00b3grafo conseguiu estragar a foto.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=LnEZfI1_AM4",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "05",
+                "day": "29",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -937,6 +1273,22 @@
             "text": {
                 "headline": "Nossa viagem para Brasilia",
                 "text": "<p>Voce sempre sonhou em conhecer Brasilia. Ainda bem que aproveitamos a oportunidade.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=865_2s9UktQ",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "07",
+                "day": "01",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
             }
         },
         {
@@ -1060,6 +1412,22 @@
             "start_date": {
                 "month": "08",
                 "day": "27",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "------- ADICIONAR HEADLINE -------",
+                "text": "<p>------- ADICIONAR TEXTO -------</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=a_M2kMMe9bY",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "09",
+                "day": "05",
                 "year": "2024"
             },
             "text": {
